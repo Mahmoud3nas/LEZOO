@@ -1,6 +1,6 @@
 # LEZOO EAT
 
-> 
+> I knew I'm new fo this Tech but I know too much i can lrean it ,
 
 ## Usage
 
