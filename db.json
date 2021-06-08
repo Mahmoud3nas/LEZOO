@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "store": "Adidas",
+      "Category": "Womens Trainers",
+      "Price": "5 $",
+      "body": "this from me",
+      "publishedAt": "2020-10-02"
+    },
+    {
+      "id": "2",
+      "store": "Nike",
+      "Category": "Men Trainers",
+      "Price": "10 $",
+      "body": "This is the post body",
+      "publishedAt": "2020-10-02"
+    },
+    {
+      "id": "3",
+      "store": "puma",
+      "Category": "T-Shirt",
+      "Price": "30 $",
+      "body": "This is the post body",
+      "publishedAt": "2020-10-02"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@example.com"
+    }
+  ]
+}
