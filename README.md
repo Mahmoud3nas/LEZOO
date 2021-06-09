@@ -1,7 +1,7 @@
 # LEZOO EAT
 Emazing challenge I learn a lot thank you in any way :) 
 
-> I knew I'm new fo this Tech but I know too much i can lrean it ,
+> I knew I'm new fo this Tech but I know too much I could lrean it ,
 
 ## Usage
 
