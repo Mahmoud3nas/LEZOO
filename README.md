@@ -1,4 +1,5 @@
 # LEZOO EAT
+Emazing challenge I learn a lot thank you in any way :) 
 
 > 
 
@@ -15,6 +16,8 @@ cd ..
 
 # Run client and server (Visit http://localhost:3000)
 npm run dev
+
+# if you would like to run each server separate use below:) (("Mahmoud Kareem " " '/"))
 
 # Run server only (:5000)
 npm run server
