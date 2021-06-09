@@ -7,6 +7,7 @@ const PostCreate = (props) => {
       <SimpleForm>
         <TextInput source='store' />
         <TextInput source='Category' />
+        <TextInput source='Product' />
         <TextInput source='Price' />
         <TextInput multiline source='body' />
         <DateInput label='Published' source='publishedAt' />

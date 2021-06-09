@@ -4,6 +4,7 @@
       "id": "1",
       "store": "Adidas",
       "Category": "Womens Trainers",
+      "Product": "Pink Running Shoes11",
       "Price": "5 $",
       "body": "this from me",
       "publishedAt": "2020-10-02"
@@ -12,6 +13,7 @@
       "id": "2",
       "store": "Nike",
       "Category": "Men Trainers",
+      "Product": "Pink Running Shoes",
       "Price": "10 $",
       "body": "This is the post body",
       "publishedAt": "2020-10-02"
@@ -20,9 +22,18 @@
       "id": "3",
       "store": "puma",
       "Category": "T-Shirt",
+      "Product": "Pink Running Shoes",
       "Price": "30 $",
       "body": "This is the post body",
       "publishedAt": "2020-10-02"
+    },
+    {
+      "store": "Cool",
+      "Category": "Anossee",
+      "Product": "Pink Running Shoes11",
+      "Price": "100",
+      "publishedAt": "2021-06-11",
+      "id": "Ecp4tMe"
     }
   ],
   "users": [

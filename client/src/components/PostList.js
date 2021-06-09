@@ -16,6 +16,7 @@ const PostList = (props) => {
         <TextField source='id' />
         <TextField source='store' />
         <TextField source='Category' />
+        <TextField source='Product' />
         <TextField source='Price' />
         <DateField source='publishedAt' />
         <EditButton basePath='/posts' />
